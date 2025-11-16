@@ -14,7 +14,7 @@ function Header({ isDarkMode, toggleTheme }) {
 
       <div className="hero-top-right">
         <a 
-          href="public/Lashkarwala_AyeshaFazal_CV.pdf"
+          href="Lashkarwala_AyeshaFazal_CV.pdf"
           download 
           className="cta-button"
         >
