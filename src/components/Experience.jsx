@@ -16,7 +16,8 @@ const experienceData = [
     company: "Brandenburgische Technische Universität Cottbus",
     date: "Oct 2025 - Present",
     points: [
-      "Developed and delivered a Python programming curriculum to 100+ enrolled students."
+      "Developed and delivered a Python programming curriculum to 100+ enrolled students.",
+      "Taught core ML concepts, focusing on data hygiene and the implementation and interpretation of Linear and Logistic Regression models."
     ]
   },
   {
