@@ -6,7 +6,7 @@ const projectData = [
     description: "Designed and built a full-stack web application to classify student mathematical errors from images, providing personalized feedback in low-resource schools.",
     impact: "Achieved 87% accuracy with classical models and improved Deep Learning model accuracy from 37% to 60% via data augmentation.",
     tech: "Python, Google Vision API, Scikit-Learn, Figma",
-    link: "https://drive.google.com/file/d/1v46rQzscdZqZplBTNP4YXxFQsO8hiYEu/view?usp=drive_link"
+    link: "https://drive.google.com/file/d/1v46rQzscdZqZplBTNP4YXxFQsO8hiYEu/view?usp=sharing"
   },
   {
     title: "Authorship Attribution Model (NLP & ML)",
