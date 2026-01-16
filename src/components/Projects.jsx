@@ -2,6 +2,12 @@ import React from 'react';
 
 const projectData = [
   {
+    title: "AdaptiRead: Text Simplification Tool for Dyslexia",
+    description: "Developed an end-to-end NLP pipeline that simplifies complex text for dyslexic readers by fine-tuning a Seq2Seq Transformer. The system calculates a custom 'Dyslexic Complexity Score' based on lexical rarity and phonological features to trigger simplification only when necessary.",
+    tech: "Python, Hugging Face (T5-Small), BERTScore, LIME (XAI), Pandas, PyTorch",
+    link: "https://github.com/ayeshalashkarwala/adaptiread"
+  },
+  {
     title: "MathMate: Adaptive Learning Engine (End-to-End ML)",
     description: "Designed and built a full-stack web application to classify student mathematical errors from images, providing personalized feedback in low-resource schools.",
     impact: "Achieved 87% accuracy with classical models and improved Deep Learning model accuracy from 37% to 60% via data augmentation.",

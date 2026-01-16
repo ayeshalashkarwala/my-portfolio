@@ -6,9 +6,9 @@ const experienceData = [
     company: "Technische Universität Berlin",
     date: "Jul 2025 - Present",
     points: [
-      "Curated and prepared a domain-specific dataset from Hugging Face for efficient experimentation.",
-      "Developed a visual logging tool to streamline monitoring and analysis of Large Language Model outputs.",
-      "Researched and evaluated inference servers to identify the most suitable solution for deployment."
+      "Built a FastAPI microservice using Polars to automate data ingestion and building middleware for stable integration.",
+      "Created a visual logging tool to analyze experiment's performance and curated domain-specific dataset from Hugging Face for experiments.",
+      "Optimized deployment by selecting efficient inference servers.",
     ]
   },
   {
@@ -17,7 +17,8 @@ const experienceData = [
     date: "Oct 2025 - Present",
     points: [
       "Developed and delivered a Python programming curriculum to 100+ enrolled students.",
-      "Taught core ML concepts, focusing on data hygiene and the implementation and interpretation of Linear and Logistic Regression models."
+      "Taught core ML concepts, focusing on data hygiene and the implementation and interpretation of Linear and Logistic Regression models.",
+      "Demonstrated the impact of Feature Engineering (Standardization, Normalization) on model performance through hands-on programming tutorials."
     ]
   },
   {
@@ -31,7 +32,7 @@ const experienceData = [
     ]
   },
   {
-    role: "Data Science (CS 334) Teaching Assistant",
+    role: "Teaching Assistant - Data Science",
     company: "Lahore University of Management Sciences (LUMS)",
     date: "Jan 2023 - May 2023",
     points: [
