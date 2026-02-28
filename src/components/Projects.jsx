@@ -8,6 +8,12 @@ const projectData = [
     link: "https://github.com/ayeshalashkarwala/adaptiread"
   },
   {
+    title: "Driver Facial Expression Recognition using Mobile Vision Transformer",
+    description: "Evaluated the trade-off between model complexity and performance by extending the ShuffViT-DFER framework. Replaced Global Context Vision Transformers (GC-ViT) with MobileViT to optimize for real-time driver monitoring, achieving an 80% reduction in parameters and a 3-hour reduction in inference time while maintaining a 0.90 F1-score.",
+    tech: "Python, PyTorch, MobileViT, GC-ViT, 10-fold Cross-Validation, KMU-FED Datasets",
+    link: "https://github.com/ayeshalashkarwala/DFER-MobileViT"
+  },
+  {
     title: "MathMate: Adaptive Learning Engine (End-to-End ML)",
     description: "Designed and built a full-stack web application to classify student mathematical errors from images, providing personalized feedback in low-resource schools.",
     impact: "Achieved 87% accuracy with classical models and improved Deep Learning model accuracy from 37% to 60% via data augmentation.",
