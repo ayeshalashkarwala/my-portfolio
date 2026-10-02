@@ -2,23 +2,23 @@ import React from 'react';
 
 const skillsData = {
   "AI & Machine Learning": [
-    "Python", "TensorFlow", "PyTorch", "Keras", "Scikit-Learn", "NumPy", 
-    "Pandas", "SciPy", "Matplotlib", "Explainable ML", "LLM Analysis", "Computer Vision (YOLOv3)"
+    "Python", "TensorFlow", "PyTorch", "Keras", "Scikit-Learn", "NumPy",
+    "Pandas", "SciPy", "Matplotlib", "Explainable ML", "LLM Analysis", "Computer Vision (YOLOv3)", "Hugging Face", "XAI (LIME)", "Generative AI", "Agentic AI", "Multi-Agent Systems"
   ],
   "Data & Software Engineering": [
-    "SQL", "C#", ".NET Framework", "C++", "JavaScript", "React", "Node.js", 
-    "HTML", "CSS", "Git/GitHub", "Docker (basic)", "Hugging Face"
+    "SQL", "C#", ".NET Framework", "C++", "JavaScript", "React", "Node.js",
+    "HTML", "CSS", "Git/GitHub", "Docker (basic)"
   ],
   "Tools & Platforms": [
     "Mixpanel", "Figma", "Firebase", "MongoDB", "MS Excel", "MATLAB", "LATEX", "Android Studio"
   ],
   "Language Skills": [
-    "English (C2 - Native)",
+    "English (C2 - Fluent)",
     "Urdu (C2 - Native)",
-    "German (A1 - Beginner)"
+    "German (A2 - Conversational)"
   ],
   "Soft Skills": [
-    "Communication", "Teaching", "Leadership", "Teamwork", "Design Thinking", 
+    "Communication", "Teaching", "Leadership", "Teamwork", "Design Thinking",
     "Analysis", "Research", "Academic Writing"
   ]
 };

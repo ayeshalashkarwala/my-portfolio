@@ -6,19 +6,23 @@ const experienceData = [
     company: "Technische Universität Berlin",
     date: "Jul 2025 - Present",
     points: [
-      "Built a FastAPI microservice using Polars to automate data ingestion and building middleware for stable integration.",
-      "Created a visual logging tool to analyze experiment's performance and curated domain-specific dataset from Hugging Face for experiments.",
-      "Optimized deployment by selecting efficient inference servers.",
+      "Built a FastAPI microservice using Polars to automate data ingestion and building middleware for stable integration",
+      "Created a visual logging tool to analyze experiment's performance and curated domain-specific dataset from Hugging Face for experiments",
+      "Evaluated 5+ inference servers (e.g., vLLM, NVIDIA Triton, TGI) to optimize for throughput and latency, authoring a comparative report that streamlined the final deployment decision",
+      "Implemented a data pipeline using FastAPI and Polars to ingest and process large datasets, establishing robust middleware for stable data integration",
+      "Designed a multi-agent backtracking pipeline for agentic table reasoning, preventing compounding errors from premature row filtering and column selection",
+      "Built an auditor and Critic Agent framework to validate tabular transformations, rolling back execution to the last valid state"
     ]
   },
   {
     role: "Student Assistant - Explainable Machine Learning",
     company: "Brandenburgische Technische Universität Cottbus",
-    date: "Oct 2025 - Present",
+    date: "Oct 2025 - Sep. 2026",
     points: [
-      "Developed and delivered a Python programming curriculum to 100+ enrolled students.",
-      "Taught core ML concepts, focusing on data hygiene and the implementation and interpretation of Linear and Logistic Regression models.",
-      "Demonstrated the impact of Feature Engineering (Standardization, Normalization) on model performance through hands-on programming tutorials."
+      "Developed and delivered a Python programming curriculum to 100+ enrolled students",
+      "Taught core ML concepts, focusing on data hygiene and the implementation and interpretation of Linear and Logistic Regression models",
+      "Demonstrated the impact of Feature Engineering (Standardization, Normalization) on model performance through hands-on programming tutorials",
+      "Prepared final exam tasks assessing core ML concepts"
     ]
   },
   {
@@ -26,9 +30,9 @@ const experienceData = [
     company: "Spur Solutions Pvt Ltd",
     date: "Dec 2023 - Sep 2024",
     points: [
-      "Reduced execution time by 89% by optimizing a complex stored procedure within a legacy .NET system.",
-      "Integrated SignalR into a legacy .NET Framework system, optimizing real-time communication.",
-      "Performed in-depth data analysis to standardize and harmonize system metrics."
+      "Reduced execution time by 89% by optimizing a complex stored procedure within a legacy .NET system",
+      "Integrated SignalR into a legacy .NET Framework system, optimizing real-time communication",
+      "Performed in-depth data analysis to standardize and harmonize system metrics"
     ]
   },
   {
@@ -36,8 +40,8 @@ const experienceData = [
     company: "Lahore University of Management Sciences (LUMS)",
     date: "Jan 2023 - May 2023",
     points: [
-      "Aided the instructor by preparing assignments and leading a semester-long project for 80+ students.",
-      "Organized tutorials in Python and conducted weekly office hours."
+      "Aided the instructor by preparing assignments and leading a semester-long project for 80+ students",
+      "Organized tutorials in Python and conducted weekly office hours"
     ]
   },
 ];
